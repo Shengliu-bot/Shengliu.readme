@@ -3,8 +3,9 @@ My research focuses on reaching Embodied Artificial Intelligence in humanoid rob
 
 Research Interests:
 Embodied AI, 
-Mobile Manipulation, 
+(Mobile) Manipulation, 
 Human-Robot Interaction, 
 Legged Locomotion and whole-body control, 
-Computer Vision
+Computer Vision,
+World Model.......
 
